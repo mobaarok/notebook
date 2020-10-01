@@ -7,5 +7,5 @@ array_change_key_case ফাংশান   /অ্যারে এর কী গ
 ~~~ php
 $array = ["FirSt" => 1, "SecOnd" => 4];
 print_r(array_change_key_case($array, CASE_UPPER)); // or CASE_LOWER
-//Array ( [key] => 1 [second] => 4 [0] => 5 [1] => 1 )
+//Array ( [first] => 1 [second] => 4 [0] => 5 [1] => 1 )
 ~~~
