@@ -13,8 +13,8 @@ print_r(array_change_key_case($array, CASE_UPPER)); // or CASE_LOWER
 array_chunk অ্যারে কে given size এর ভিত্তিতে ছোট ছোট অ্যারে তে  ভাগ করে একটি multidimensional  অ্যারে রটার্ন করে। এটি তিনটি প্যারামিটার নেয়।
 *$array* *$size* *$preserve_keys*
 
-$preserve_keys এর value true অথবা false হবে। ture defined করলে  এর ক্ষেত্রে আগের মত থাকবে নাকি শুরু হবে।
-~~~ php
+$preserve_keys এর value true অথবা false হবে। ture defined করলে index array এর key আগের টাই  থাকবে। false হলে zero index থে্কে key  শুরু হবে।
+~~~ php e.g.
 $input_array = array('a', 'b', 'c', 'd', 'e');
 print_r(array_chunk($input_array, 2));
 print_r(array_chunk($input_array, 2, true));
