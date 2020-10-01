@@ -3,14 +3,17 @@
 ## Array Functions:
 
 ### 1. array_change_key_case($array, $case)
-array_change_key_case ফাংশান   /অ্যারে এর কী গুলো কে লোয়ারকেস অথবা আপারকেস করে দেয়।
+array_change_key_case ফাংশান অ্যারে এর কী গুলো কে লোয়ারকেস অথবা আপারকেস করে দেয়।
 ~~~ php
 $array = ["FirSt" => 1, "SecOnd" => 4];
 print_r(array_change_key_case($array, CASE_UPPER)); // or CASE_LOWER
 //Array ( [first] => 1 [second] => 4 [0] => 5 [1] => 1 )
 ~~~
 ### 2. array_chunk ($array, $size, $preserve_keys)
+array_chunk অ্যারে কে given size এর ভিত্তিতে ছোট ছোট অ্যারে তে  ভাগ করে একটি multidimensional  অ্যারে রটার্ন করে। এটি তিনটি প্যারামিটার নেয়।
+*$array* *$size* *$preserve_keys*
 
+$preserve_keys এর value true অথবা false হবে। ture defined করলে  এর ক্ষেত্রে আগের মত থাকবে নাকি শুরু হবে।
 ~~~ php
 $input_array = array('a', 'b', 'c', 'd', 'e');
 print_r(array_chunk($input_array, 2));
