@@ -43,3 +43,21 @@ Monday 02-November-2020
 */
 
 ~~~
+
+
+
+### Sample Solution for date problem
+
+~~~ php
+$arr = ['sunday', 'monday', 'tuesday', 'sunday', 'friday'];
+$day = ['sunday', 'monday'];
+$total = count($arr);
+for($i = 0;  $i <= 5; $i++){
+	for($j=0; $j <= 2; $j++) {
+		// echo " $day[$j]" ;
+			if($day[$j] == $arr[$i]) {
+			echo " $arr[$i] \n ";
+		}
+	} 		
+}
+~~~
