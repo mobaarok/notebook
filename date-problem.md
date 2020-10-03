@@ -3,6 +3,8 @@ Given day in weeks:
 - monday
 - friday
 
+given date can be change
+
 Find all date in next 30 days, which have monday and friday.
 ~~~ php
 <?php
