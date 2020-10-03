@@ -1,5 +1,9 @@
 ### date problem 
+Given day in weeks: 
+- monday
+- friday
 
+Find all date in next 30 days, which have monday and friday.
 ~~~ php
 <?php
 
