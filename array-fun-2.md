@@ -64,3 +64,8 @@ Array
 
 */
 ~~~
+
+## array_column  
+array_column — Return the values from a single column in the input array
+Description `array_column ( array $input , mixed $column_key [, mixed $index_key = NULL ] ) : array`
+
