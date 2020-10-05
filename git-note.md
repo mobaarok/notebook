@@ -73,7 +73,7 @@ git checkout branch-name
 git checkout -b branch-name
 ```
 
-### [রাঞ্চ ডিলিট করত:](#to-delete-branch)
+### [রাঞ্চ ডিলিট করত:]{#to-delete-branch}
 ```
 git branch -D branch-name
 ```
