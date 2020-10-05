@@ -1,7 +1,7 @@
 ## Git Note
 
 #### Menu:
-[Branch Delete](https://github.com/mobaarok/markdown/blob/master/git-note.md#%E0%A6%B0%E0%A6%BE%E0%A6%9E%E0%A7%8D-%E0%A6%A1%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A6%9F-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87%E0%A6%83)
+[Branch Delete](#to-delete-branch)
 
 ### গিটের ভার্শন চেক করতেঃ
 ```
@@ -72,7 +72,7 @@ git checkout branch-name
 git checkout -b branch-name
 ```
 
-### ব্রাঞ্চ ডিলিট করতেঃ 
+### [রাঞ্চ ডিলিট করত:](#to-delete-branch)
 ```
 git branch -D branch-name
 ```
