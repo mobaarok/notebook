@@ -1,4 +1,4 @@
 ## Git Note
 
 ### গিটের ভার্শন চেক করতেঃ
-`git --version`
+```git --version```
