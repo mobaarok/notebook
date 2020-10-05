@@ -56,10 +56,41 @@ _You **can** combine them_
    1. Item 3a
    1. Item 3b
 
-### Images
+### 4.Images
 ~~~
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 ~~~
 #### Output:
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+### 5.Links
+~~~
+http://github.com - automatic!
+[GitHub](http://github.com)
+~~~
+Output:
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+### 6.Blockquotes
+~~~
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+~~~
+#### Output: 
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+### 7.Inline code
+~~~
+I think you should use an
+`<addr>` element here instead.
+~~~
+#### Output: 
+I think you should use an
+`<addr>` element here instead.
