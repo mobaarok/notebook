@@ -67,3 +67,12 @@ Array
     [3] => end
 )
 ```
+
+## unset  
+unset — Unset/destroy a given variable, unset also destory given **array** value    
+Description: `unset ( mixed $var [, mixed $... ] ) : void`
+#### Example: 
+``` php
+// destroy a single element of an array
+unset($bar['item1']);
+```
