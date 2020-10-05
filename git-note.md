@@ -50,9 +50,31 @@ git commit -m "added some file"
 git checkout commmit-id
 ```
 
-### ব্রাঞ্চ তৈরী করতেঃ
+### ব্রাঞ্চ তৈরি করতেঃ
 ```
 git branch branch-name
 ```
+###  ব্রাঞ্চের লিস্ট দেখতেঃ
+```
+git branch
+```
 
-### ব্রাঞ্চ-এ চেক অ  
+### ব্রাঞ্চ-এ চেক অউট করতেঃ 
+```
+git checkout branch-name
+```
+
+###  নতুন ব্রাঞ্চ তৈরি করে সাথে সাথে ওই রাঞ্-এ  চেকআউট করতেঃ
+```
+git checkout -b branch-name
+```
+
+### রাঞ্ ডিলিট করতেঃ 
+```
+git branch -D branch-name
+```
+
+#### ব্রাঞ্ছ 
+```
+git merge branch-name
+```
