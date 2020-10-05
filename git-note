@@ -1,6 +1,6 @@
 ## Git Note
 
 ### গিটের ভার্শন চেক করতেঃ
-~ bash
+`
 git --version
-~
+`
