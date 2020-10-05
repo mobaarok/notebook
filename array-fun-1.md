@@ -1,6 +1,6 @@
 ## is_array
 is_array — Finds whether a variable is an array  
-Function Description `is_array ( mixed $var ) : bool`
+Function Description: `is_array ( mixed $var ) : bool`
 #### Example
 ``` php
 $arr = array('this', 'is', 'an array');
