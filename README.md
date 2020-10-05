@@ -14,10 +14,12 @@ array_chunk অ্যারে কে given size এর ভিত্তিতে
 *$array* *$size* *$preserve_keys*
 
 $preserve_keys এর value true অথবা false হবে। ture defined করলে index array এর key আগের টাই  থাকবে। false হলে zero index থে্কে key  শুরু হবে।
-~~~ php e.g.
+~~~ php
 $input_array = array('a', 'b', 'c', 'd', 'e');
 print_r(array_chunk($input_array, 2));
 print_r(array_chunk($input_array, 2, true));
+~~~
+~~~ php
 /*
 *output one:
 Array
@@ -59,5 +61,6 @@ Array
             [4] => e
         )
 )
+
 */
 ~~~
