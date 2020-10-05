@@ -38,7 +38,6 @@ Array
         (
             [0] => e
         )
-
 )
 output two: 
 Array
@@ -59,8 +58,6 @@ Array
         (
             [4] => e
         )
-
 )
-
 */
 ~~~
