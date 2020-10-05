@@ -55,3 +55,11 @@ _You **can** combine them_
 1. Item 3
    1. Item 3a
    1. Item 3b
+
+### Images
+~~~
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+~~~
+#### Output:
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
