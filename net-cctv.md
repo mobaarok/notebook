@@ -1,2 +1,3 @@
 ## cat 6 cables
-![Cat 6 cable](/cat6-cables.jpeg =250x250)
+<img src="/cat6-cables.jpeg" alt="cat 6 cable" width="150" height="100" />
+  
