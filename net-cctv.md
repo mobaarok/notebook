@@ -1,2 +1,2 @@
 ## cat 6 cables
-![Cat 6 cable](/cat6-cables.jpeg)
+![Cat 6 cable](/cat6-cables.jpeg =250x250)
