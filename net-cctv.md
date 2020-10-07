@@ -1,5 +1,8 @@
 ## cat 6 cables
-<img src="/cat6-cables.jpeg" alt="cat 6 cable" width="150" height="100" />
+<img src="/cat6-cables.jpeg" alt="cat 6 cable" width="250" height="200" />
+
+## DVR need Two Core Cable for signal
+<img src="https://5.imimg.com/data5/PL/VJ/MY-10198981/two-core-armoured-cables-500x500.jpg" alt="cat 6 cable" width="250" height="200" />
 
 
 ## CCTV
