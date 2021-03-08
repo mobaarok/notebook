@@ -61,7 +61,7 @@ to make code bolck use three "\`\`\`" or "~~~" . and end it also
 ```text
 ```js
 const getName = (param) => {
-  echo "Mobarok Hossain";
+  echo "Mobarok";
 }
 ` ` `
 ```
