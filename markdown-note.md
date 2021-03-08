@@ -42,7 +42,7 @@ Simple Text are used for writnig paragraph.Simple Text are used for writnig para
 
 #### Example:-
 
-![linux file listing](https://github.com/mobaarok/markdown/tree/dd4d25077f67eff7c4ec15a99a95a6e68a50e332/ls-l.png)
+![linux file listing](assets/ls-l.png)
 
 ## 4 Link
 
