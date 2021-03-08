@@ -2,7 +2,7 @@
 
 ## is\_array
 
-is\_array — Finds whether a variable is an array  
+is_array — Finds whether a variable is an array  
 Function Description: `is_array ( mixed $var ) : bool`
 
 ### Example:

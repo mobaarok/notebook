@@ -1,8 +1,5 @@
 # Git Note
 
-### Menu:
-
-[Branch Delete](https://github.com/mobaarok/markdown/blob/master/git-note.md#to-delete-branch) [short](git-note.md#to-delete-branch)
 
 ## গিটের ভার্শন চেক করতেঃ
 

@@ -4,7 +4,7 @@
 
 ### 1. array\_change\_key\_case\($array, $case\)
 
-array\_change\_key\_case ফাংশান অ্যারে এর কী গুলো কে লোয়ারকেস অথবা আপারকেস করে দেয়।
+array_change\_key\_case ফাংশান অ্যারে এর কী গুলো কে লোয়ারকেস অথবা আপারকেস করে দেয়।
 
 ```php
 $array = ["FirSt" => 1, "SecOnd" => 4];

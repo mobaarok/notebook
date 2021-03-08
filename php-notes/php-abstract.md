@@ -23,7 +23,7 @@ abstract class AbstractClass
 ```php
 class childClass extends AbstractClass{
     public function getName($name) {
-        return 'Hi '.$name.' !';
+        return $name;
     }
 }
 ```

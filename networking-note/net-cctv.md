@@ -1,6 +1,6 @@
 # net-cctv
 
-## cat 6 cables
+## cat 6 cables image
 
 ![cat 6 cable](../.gitbook/assets/cat6-cables.jpeg)
 
